@@ -1,0 +1,20 @@
+* {  /*Zerar a margem para Tirar a barra lateral indesejada*/
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    color: white;
+}
+
+:root{
+    font-size: 62.2%;
+}
+
+body, input, button, textarea{
+    font-size: 1.8em;
+    line-height: 1;
+    font-weight: 400;
+    font-family: 'Nunito', sans-serif;
+}
